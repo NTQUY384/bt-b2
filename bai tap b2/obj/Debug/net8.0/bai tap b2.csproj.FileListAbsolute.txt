@@ -1,0 +1,14 @@
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\bai tap b2.GeneratedMSBuildEditorConfig.editorconfig
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\bai tap b2.AssemblyInfoInputs.cache
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\bai tap b2.AssemblyInfo.cs
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\bai tap b2.csproj.CoreCompileInputs.cache
+E:\code test\c c++\bai tap b2\bai tap b2\bin\Debug\net8.0\bai tap b2.exe
+E:\code test\c c++\bai tap b2\bai tap b2\bin\Debug\net8.0\bai tap b2.deps.json
+E:\code test\c c++\bai tap b2\bai tap b2\bin\Debug\net8.0\bai tap b2.runtimeconfig.json
+E:\code test\c c++\bai tap b2\bai tap b2\bin\Debug\net8.0\bai tap b2.dll
+E:\code test\c c++\bai tap b2\bai tap b2\bin\Debug\net8.0\bai tap b2.pdb
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\bai tap b2.dll
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\refint\bai tap b2.dll
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\bai tap b2.pdb
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\bai tap b2.genruntimeconfig.cache
+E:\code test\c c++\bai tap b2\bai tap b2\obj\Debug\net8.0\ref\bai tap b2.dll
